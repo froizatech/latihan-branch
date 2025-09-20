@@ -1,2 +1,2 @@
 # latihan-branch
--just having fun
+-hanya ingin bermain

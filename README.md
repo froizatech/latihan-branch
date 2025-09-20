@@ -1,2 +1,2 @@
 # latihan-branch
--hanya untuk bermain
+-hanya untuk bermain, have fun
